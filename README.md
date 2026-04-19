@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:0d1117&height=200&section=header&text=Fabricio%20Netto&fontSize=52&fontColor=58a6ff&fontAlignY=38&desc=Supply%20Chain%20%26%20Logistics%20Operations&descSize=18&descColor=8b949e&descAlignY=58&animation=fadeIn" width="100%"/>
+# Fabricio Neto
+### Supply Chain & Logistics Operations | Maritime Container Shipping
 
-</div>
+**Automating capacity planning with Python & Power BI**
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=60&lines=Maritime+Container+Shipping+%7C+Capacity+Planning+%7C+Data+Automation;Python+%7C+Power+BI+%7C+Excel+%7C+SAP)](https://git.io/typing-svg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabricio-neto-pcd/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabricionettto@gmail.com)
 
 </div>
 
@@ -14,16 +14,19 @@
 
 ## 👤 About Me
 
-```python
-fabricio = {
-    "role"      : "Supply Chain & Logistics Operations Analyst",
-    "domain"    : "Maritime Container Shipping",
-    "focus"     : ["Capacity Planning", "Vessel Operations", "BI & Automation"],
-    "stack"     : ["Python", "Power BI", "Excel (Advanced)", "SAP/EBMS"],
-    "building"  : "Tools that eliminate manual work in shipping ops",
-    "location"  : "São Paulo, Brazil 🇧🇷"
-}
-```
+<div align="center">
+
+![Role](https://img.shields.io/badge/🧑‍💼_Role-Supply_Chain_%26_Logistics_Analyst-0d6efd?style=flat-square)
+![Domain](https://img.shields.io/badge/🚢_Domain-Maritime_Container_Shipping-0a9396?style=flat-square)
+![Location](https://img.shields.io/badge/📍_Location-São_Vicente,_Brazil-6c757d?style=flat-square)
+
+![Focus 1](https://img.shields.io/badge/🎯_Focus-Capacity_Planning-198754?style=flat-square)
+![Focus 2](https://img.shields.io/badge/🎯_Focus-Vessel_Operations-198754?style=flat-square)
+![Focus 3](https://img.shields.io/badge/🎯_Focus-BI_%26_Automation-198754?style=flat-square)
+
+![Building](https://img.shields.io/badge/🔨_Building-Tools_that_eliminate_manual_work_in_shipping_ops-e63946?style=flat-square)
+
+</div>
 
 ---
 
@@ -44,12 +47,12 @@ My day-to-day involves:
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=58a6ff)
-![Power BI](https://img.shields.io/badge/Power_BI-0d1117?style=for-the-badge&logo=powerbi&logoColor=F2C811)
-![Excel](https://img.shields.io/badge/Excel_Advanced-0d1117?style=for-the-badge&logo=microsoftexcel&logoColor=217346)
-![SAP](https://img.shields.io/badge/SAP-0d1117?style=for-the-badge&logo=sap&logoColor=0FAAFF)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
-![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel_Advanced-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
@@ -62,7 +65,14 @@ My day-to-day involves:
 
 **What it solves:** Manual capacity tracking across vessels, bookings, and cargo types — replaced by automated dashboards and Python scripts that flag risks before they become problems.
 
-`HTML` · `Python` · `Power BI` · `Maritime Ops`
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Maritime Ops](https://img.shields.io/badge/Maritime_Ops-0a9396?style=for-the-badge&logo=ship&logoColor=white)
+![BI Automation](https://img.shields.io/badge/BI_Automation-6f42c1?style=for-the-badge&logo=databricks&logoColor=white)
+
+</div>
 
 ---
 
@@ -70,24 +80,24 @@ My day-to-day involves:
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=fabricionettto-commits&show_icons=true&theme=github_dark&hide_border=true&icon_color=58a6ff&title_color=58a6ff&text_color=8b949e&bg_color=0d1117"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabricionettto-commits&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=8b949e&bg_color=0d1117"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=fabricionettto-commits&show_icons=true&theme=github_dark&hide_border=true&icon_color=58a6ff&title_color=58a6ff&text_color=8b949e"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabricionettto-commits&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=8b949e"/>
 
 </div>
 
 ---
 
-## 🤝 Connect
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/fabricionetto)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:seu@email.com)
+📩 **fabricionettto@gmail.com** · [LinkedIn](https://www.linkedin.com/in/fabricio-neto-pcd/)
 
 </div>
 
+
+---
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:0d1117&height=100&section=footer" width="100%"/>
+📩 **fabricionettto@gmail.com** · [LinkedIn](https://www.linkedin.com/in/fabricio-neto-pcd/)
 
 </div>
