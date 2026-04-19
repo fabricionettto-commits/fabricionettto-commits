@@ -1,5 +1,7 @@
 <div align="center">
 
+![S&OP Capacity Planning BI portfolio cover](assets/portfolio_cover.png)
+
 # Fabricio Neto
 ### S&OP · Capacity Planning · Business Intelligence · Maritime Logistics
 
