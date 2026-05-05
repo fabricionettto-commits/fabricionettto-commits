@@ -3,9 +3,11 @@
 ![Maritime operations intelligence portfolio cover](assets/portfolio_cover.png)
 
 # Fabricio Neto
-### Maritime Operations Intelligence | Capacity Planning & Shortfall Analysis | Decision Systems for Container Shipping
+### Maritime Operations Intelligence | Capacity Planning, Shortfall Prevention & Decision Systems | Container Shipping
 
 Built operational intelligence systems that reduce vessel planning from 4h to 20 min and support capacity decisions across multi-port operations.
+
+I don't build dashboards. I make capacity risk visible before execution.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabricio-neto-pcd/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabricionettto@gmail.com)
@@ -18,9 +20,19 @@ Built operational intelligence systems that reduce vessel planning from 4h to 20
 
 ### Capacity / Shortfall Intelligence
 
-This project prevented capacity planning errors before vessel execution by identifying shortfall at port level.
+This project was built to prevent revenue loss and operational rework caused by late capacity visibility.
 
-It turns booking, BAPLIE-style data, gate-in status, equipment mix, TEU, weight, reefer, NOR, IMO, OOG, and final moves into one operational decision flow.
+Before this:
+
+- shortfall was identified too late;
+- planning decisions were reactive;
+- commercial and operations worked with conflicting numbers.
+
+After this:
+
+- capacity risk is visible before execution;
+- planning decisions happen earlier;
+- teams operate with the same numbers.
 
 **Impact**
 
@@ -28,6 +40,14 @@ It turns booking, BAPLIE-style data, gate-in status, equipment mix, TEU, weight,
 - Processed 950+ container moves in under 20 minutes.
 - Identified 99+ TEUs of shortfall risk before execution.
 - Supported multi-port operations across BRSSA, BRFOR, BRRIO, and BRIOA.
+
+**Business Relevance**
+
+- Each missed TEU represents lost revenue or reallocation cost.
+- Late shortfall detection leads to operational rework and commercial impact.
+- This system shifts decisions from reactive to proactive, reducing execution risk.
+
+Estimated effect: improves planning accuracy, reduces last-minute changes, and protects vessel utilization.
 
 Open first: [Maritime Operations Intelligence Portfolio](https://github.com/fabricionettto-commits/maritime-portfolio)
 
