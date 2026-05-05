@@ -1,66 +1,67 @@
 <div align="center">
 
-![S&OP Capacity Planning BI portfolio cover](assets/portfolio_cover.png)
+![Maritime operations intelligence portfolio cover](assets/portfolio_cover.png)
 
 # Fabricio Neto
-### S&OP · Capacity Planning · Business Intelligence · Maritime Logistics
+### Maritime Operations Intelligence | Capacity Planning & Shortfall Analysis | Decision Systems for Container Shipping
 
-I build Python and BI tools that turn shipping operations data into planning, commercial, and execution decisions.
+Built operational intelligence systems that reduce vessel planning from 4h to 20 min and support capacity decisions across multi-port operations.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabricio-neto-pcd/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabricionettto@gmail.com)
-
-LinkedIn: [linkedin.com/in/fabricio-neto-pcd](https://www.linkedin.com/in/fabricio-neto-pcd/)
 
 </div>
 
 ---
 
-## About Me
+## Main Case
 
-Specialist in **S&OP, Capacity Planning and Business Intelligence** with 15+ years in maritime operations, integrated logistics, and data-driven planning.
+### Capacity / Shortfall Intelligence
 
-My work connects operational execution, commercial intelligence, and automation:
+This project prevented capacity planning errors before vessel execution by identifying shortfall at port level.
 
-- capacity planning by TEU, tons, plugs, equipment, port, and voyage;
-- Python pipelines for Excel and operational files;
-- executive dashboards for planning and commercial decisions;
-- maritime logistics KPIs that reduce manual work and improve visibility.
+It turns booking, BAPLIE-style data, gate-in status, equipment mix, TEU, weight, reefer, NOR, IMO, OOG, and final moves into one operational decision flow.
+
+**Impact**
+
+- Reduced vessel planning cycle time from 4h to 20 min per vessel/day.
+- Processed 950+ container moves in under 20 minutes.
+- Identified 99+ TEUs of shortfall risk before execution.
+- Supported multi-port operations across BRSSA, BRFOR, BRRIO, and BRIOA.
+
+Open first: [Maritime Operations Intelligence Portfolio](https://github.com/fabricionettto-commits/maritime-portfolio)
 
 ---
 
-## Open My Projects
+## What I Build
 
-| Project | What You Can See Fast | Open |
+I build decision systems for container shipping operations:
+
+- capacity planning and shortfall analysis;
+- booking control and commercial demand visibility;
+- gate-in and execution readiness dashboards;
+- final moves tracking before vessel operation;
+- Python automation for Excel and operational files;
+- executive HTML reports for planning, commercial, and operations teams.
+
+The goal is not automation for its own sake. The goal is to make capacity risk visible early enough for people to act.
+
+---
+
+## Featured Projects
+
+| Priority | Project | Why It Matters |
 | --- | --- | --- |
-| **S&OP Capacity Planning BI** | Screenshots, generated HTML dashboards, code preview, demo data, and Python scripts | [Open project](https://github.com/fabricionettto-commits/sop_capacity_planning_bi) |
-| **Shipping Automation Python** | Lightweight index of shipping automation projects | [Open hub](https://github.com/fabricionettto-commits/shipping-automation-python) |
+| 1 | [Maritime Operations Intelligence Portfolio](https://github.com/fabricionettto-commits/maritime-portfolio) | Full decision story: booking, capacity, shortfall, gate-in, final moves, bayplan, and operational knowledge hub. |
+| 2 | [Capacity Shortfall Intelligence](https://github.com/fabricionettto-commits/sop_capacity_planning_bi) | Dedicated capacity planning case with Python, dashboards, reports, and sanitized data. |
+| 3 | [Maritime Decision Systems](https://github.com/fabricionettto-commits/shipping-automation-python) | Navigation hub for shipping automation and decision-system projects. |
+| 4 | [Operational Intelligence Architecture](https://github.com/fabricionettto-commits/Obsidian_Cerebro_Operacional) | Public architecture for connecting operational files, rules, decisions, and analytics. |
 
 ---
 
-## Featured Work
+## Professional Focus
 
-### S&OP Capacity Planning BI
-
-Demo vessel: **Good Winter 001**
-
-What it demonstrates:
-
-- BAPLIE-style Excel processing with Python;
-- capacity planning KPIs;
-- gate-in and loaded cargo visibility;
-- commercial intelligence with fictitious clients;
-- plan versus actual comparison;
-- executive HTML reports;
-- clean public portfolio data with adapted names and references.
-
-Open the project:
-
-[fabricionettto-commits/sop_capacity_planning_bi](https://github.com/fabricionettto-commits/sop_capacity_planning_bi)
-
----
-
-## Tech Stack
+**Maritime operations, S&OP, vessel planning, capacity intelligence, shortfall analysis, Python automation, Power BI, Excel, SQL, and operational dashboards.**
 
 <div align="center">
 
@@ -69,7 +70,6 @@ Open the project:
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel_Advanced-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -77,6 +77,6 @@ Open the project:
 
 <div align="center">
 
-**fabricionettto@gmail.com** · [LinkedIn](https://www.linkedin.com/in/fabricio-neto-pcd/)
+**fabricionettto@gmail.com** | [LinkedIn](https://www.linkedin.com/in/fabricio-neto-pcd/)
 
 </div>
