@@ -53,9 +53,9 @@ The goal is not automation for its own sake. The goal is to make capacity risk v
 | Priority | Project | Why It Matters |
 | --- | --- | --- |
 | 1 | [Maritime Operations Intelligence Portfolio](https://github.com/fabricionettto-commits/maritime-portfolio) | Full decision story: booking, capacity, shortfall, gate-in, final moves, bayplan, and operational knowledge hub. |
-| 2 | [Capacity Shortfall Intelligence](https://github.com/fabricionettto-commits/sop_capacity_planning_bi) | Dedicated capacity planning case with Python, dashboards, reports, and sanitized data. |
-| 3 | [Maritime Decision Systems](https://github.com/fabricionettto-commits/shipping-automation-python) | Navigation hub for shipping automation and decision-system projects. |
-| 4 | [Operational Intelligence Architecture](https://github.com/fabricionettto-commits/Obsidian_Cerebro_Operacional) | Public architecture for connecting operational files, rules, decisions, and analytics. |
+| 2 | [Capacity Shortfall Intelligence](https://github.com/fabricionettto-commits/capacity-shortfall-intelligence) | Dedicated capacity planning case with Python, dashboards, reports, and sanitized data. |
+| 3 | [Maritime Decision Systems](https://github.com/fabricionettto-commits/maritime-decision-systems) | Navigation hub for shipping automation and decision-system projects. |
+| 4 | [Operational Intelligence Architecture](https://github.com/fabricionettto-commits/operational-intelligence-architecture) | Public architecture for connecting operational files, rules, decisions, and analytics. |
 
 ---
 
